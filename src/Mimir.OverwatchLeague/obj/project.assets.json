@@ -184,11 +184,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Lucas\\Documents\\Git\\MimirProject\\Mimir.OverwatchLeague\\src\\src.csproj",
-      "projectName": "src",
-      "projectPath": "E:\\Lucas\\Documents\\Git\\MimirProject\\Mimir.OverwatchLeague\\src\\src.csproj",
+      "projectUniqueName": "E:\\Lucas\\Documents\\Git\\MimirProject\\Mimir.OverwatchLeague\\Mimir.OverwatchLeague\\Mimir.OverwatchLeague.csproj",
+      "projectName": "Mimir.OverwatchLeague",
+      "projectPath": "E:\\Lucas\\Documents\\Git\\MimirProject\\Mimir.OverwatchLeague\\Mimir.OverwatchLeague\\Mimir.OverwatchLeague.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-      "outputPath": "E:\\Lucas\\Documents\\Git\\MimirProject\\Mimir.OverwatchLeague\\src\\obj\\",
+      "outputPath": "E:\\Lucas\\Documents\\Git\\MimirProject\\Mimir.OverwatchLeague\\Mimir.OverwatchLeague\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

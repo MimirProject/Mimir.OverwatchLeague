@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace src
+namespace Mimir.OverwatchLeague
 {
     public class Class1
     {

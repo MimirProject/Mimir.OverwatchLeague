@@ -1,0 +1,9 @@
+E:\Lucas\Documents\Git\MimirProject\Mimir.OverwatchLeague\src\Mimir.OverwatchLeague\bin\Debug\netstandard2.0\Mimir.OverwatchLeague.deps.json
+E:\Lucas\Documents\Git\MimirProject\Mimir.OverwatchLeague\src\Mimir.OverwatchLeague\bin\Debug\netstandard2.0\Mimir.OverwatchLeague.dll
+E:\Lucas\Documents\Git\MimirProject\Mimir.OverwatchLeague\src\Mimir.OverwatchLeague\obj\Debug\netstandard2.0\Mimir.OverwatchLeague.csprojResolveAssemblyReference.cache
+E:\Lucas\Documents\Git\MimirProject\Mimir.OverwatchLeague\src\Mimir.OverwatchLeague\obj\Debug\netstandard2.0\Mimir.OverwatchLeague.csproj.CoreCompileInputs.cache
+E:\Lucas\Documents\Git\MimirProject\Mimir.OverwatchLeague\src\Mimir.OverwatchLeague\obj\Debug\netstandard2.0\Mimir.OverwatchLeague.AssemblyInfoInputs.cache
+E:\Lucas\Documents\Git\MimirProject\Mimir.OverwatchLeague\src\Mimir.OverwatchLeague\obj\Debug\netstandard2.0\Mimir.OverwatchLeague.AssemblyInfo.cs
+E:\Lucas\Documents\Git\MimirProject\Mimir.OverwatchLeague\src\Mimir.OverwatchLeague\bin\Debug\netstandard2.0\Mimir.OverwatchLeague.pdb
+E:\Lucas\Documents\Git\MimirProject\Mimir.OverwatchLeague\src\Mimir.OverwatchLeague\obj\Debug\netstandard2.0\Mimir.OverwatchLeague.dll
+E:\Lucas\Documents\Git\MimirProject\Mimir.OverwatchLeague\src\Mimir.OverwatchLeague\obj\Debug\netstandard2.0\Mimir.OverwatchLeague.pdb
